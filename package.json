@@ -1,0 +1,26 @@
+{
+  "name": "obsidian-weather-insert",
+  "version": "1.0.0",
+  "description": "Insert a simple weather line into your note at the cursor.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "weather",
+    "journal"
+  ],
+  "author": "Cody Bontecou",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "0.20.0",
+    "obsidian": "latest",
+    "tslib": "2.6.2",
+    "typescript": "5.3.3"
+  }
+}

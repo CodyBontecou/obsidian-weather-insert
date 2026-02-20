@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-weather-insert",
+  "name": "Weather Insert",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Insert a simple weather line (temperature, conditions, wind) into your note at the cursor. Perfect for journals.",
+  "author": "Cody Bontecou",
+  "authorUrl": "https://github.com/CodyBontecou",
+  "isDesktopOnly": false
+}
