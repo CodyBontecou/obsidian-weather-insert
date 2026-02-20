@@ -88,3 +88,7 @@ This is useful for Dataview queries or Bases tables that track weather across jo
 
 - [Open-Meteo](https://open-meteo.com/) — free weather API, no key required
 - [wttr.in](https://wttr.in/) — console weather service
+
+## Inspiration
+
+This plugin was built in response to a request by u/ChainsawJaguar in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — inserting current weather into journal notes.
